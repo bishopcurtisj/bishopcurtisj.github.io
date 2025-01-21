@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Portfolio"
-permalink: /portfolio/
+title: "Contact Me"
+permalink: /contact-me/
 ---
 List your projects here.

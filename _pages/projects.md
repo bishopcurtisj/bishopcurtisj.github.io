@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Home"
-permalink: /main/
+title: "Projects"
+permalink: /projects/
 ---
 List your projects here.

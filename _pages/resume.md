@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Portfolio"
-permalink: /portfolio/
+title: "Experience"
+permalink: /resume/
 ---
 List your projects here.
