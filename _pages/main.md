@@ -1,6 +1,0 @@
----
-layout: single
-title: "Home"
-permalink: /main/
----
-List your projects here.
