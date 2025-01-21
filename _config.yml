@@ -304,9 +304,7 @@ compress_html:
 collections:
   portfolio:
     output: true
-    layout: collection
-    sort_by: date
-    order: descending
+    permalink: /:collection/:name/
 
 # Defaults
 defaults:
