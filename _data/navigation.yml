@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: https://mmistakes.github.io/bishopcurtisj/about/
+    url: /about/
   - title: "Projects"
     url: /projects/
   - title: "Experience"
