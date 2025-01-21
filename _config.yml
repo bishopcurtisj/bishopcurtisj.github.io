@@ -115,28 +115,21 @@ analytics:
 author:
   name             : "Curtis Bishop"
   avatar           : "/assets/images/headshot.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Data-Driven Economics and Computer Science Student | Analytical Thinker 
+                      Passionate about Transforming Data into Actionable Insights"
   location         : "Logan, UT"
   email            : "bishopcurtisj@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://www.linkedin.com/in/bishopcurtisj/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/bishopcurtisj"
+
 
 # Site Footer
 footer:

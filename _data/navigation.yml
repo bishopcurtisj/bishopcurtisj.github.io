@@ -6,5 +6,7 @@ main:
     url: /projects/
   - title: "Experience"
     url: /resume/
+  - title: "Blog"
+    url: /blog/
   - title: "Contact Me"
     url: /contact-me/
