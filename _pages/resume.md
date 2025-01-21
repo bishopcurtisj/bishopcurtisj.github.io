@@ -8,7 +8,7 @@ author_profile: true
 **Data Analyst**  
 _May 2024 – Present_  
 
-- Completed projects for companies such as Meta Platforms Inc., Utah CMCR, and RGP.  
+- Completed projects for companies such as Meta Platforms Inc., Utah CMCR, and Rio Grande Project.  
 - Collected and preprocessed data using web scraping, LLMs, and Python libraries.  
 - Delivered a 50-page feasibility report to Utah legislators.  
 - Developed Economic Impact Analysis for multi-billion-dollar public works projects.  
